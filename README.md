@@ -29,6 +29,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Pupil"/>
   <img src="https://img.shields.io/badge/LeetCode-100_Days_Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 100 Days"/>
+  <img src="https://img.shields.io/badge/Data_Structures-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="DS"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF4088?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algo"/>
 </div>
 
 ---
@@ -78,25 +80,16 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
   <img src="https://img.shields.io/badge/Deep_Learning-00ADD8?style=for-the-badge&logo=keras&logoColor=white" alt="DL"/>
-  <img src="https://img.shields.io/badge/Data_Structures-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="DS"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF4088?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algo"/>
 </p>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎓 [EduLearn Platform](https://github.com/zahin420/edulearn-platform)
-An interactive education learning platform similar to W3Schools, featuring tutorials, interactive coding exercises, and progress tracking.
+### 🎓 [DailyBit](https://github.com/Ishmam-Zahin/DailyBit)
+An interactive education learning platform similar to W3Schools, featuring interactive coding exercises, RAG base AI chatbot, AI generated quiz and progress tracking.
 
-**Tech Stack:** React, Next.js, Django, PostgreSQL, Tailwind CSS
-
----
-
-### 💼 [JobSeeker App](https://github.com/zahin420/jobseeker-flutter)
-A comprehensive job search mobile application built with Flutter, connecting job seekers with opportunities.
-
-**Tech Stack:** Flutter, Dart, Django REST Framework, PostgreSQL
+**Tech Stack:** React, Next.js, Spring Boot, Fast API, PostgreSQL, Tailwind CSS
 
 ---
 
